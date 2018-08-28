@@ -65,7 +65,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 0524fdfe89b797c4ebfd                            #生成的clientID
   clientSecret: 7d4efe510b78c17ac550aed092d660420d6530bf    #生成的clientSecret
-  repo: yf Blog    #仓库名称
+  repo: shangsanhao.github.io    #仓库名称
   owner: shangsanhao    #github用户名
   admin: shangsanhao
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
